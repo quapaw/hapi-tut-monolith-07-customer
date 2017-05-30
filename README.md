@@ -25,7 +25,8 @@ I have broken this down into the following steps
 |hapi-tut-monolith-06-customer|Move from npm to yarn|[06-customers](https://github.com/quapaw/hapi-tut-monolith-06-customers)|
 |**hapi-tut-monolith-07-customer**|**Customer project to go with 07-main**|**[07-customers](https://github.com/quapaw/hapi-tut-monolith-07-customers)**|
 |hapi-tut-monolith-07-product|Product project to go with 07-main|[07-products](https://github.com/quapaw/hapi-tut-monolith-07-products)|
-|hapi-tut-monolith-07-main|Change in configuration|[07-main](https://github.com/quapaw/hapi-tut-monolith-07-main)|
+|hapi-tut-monolith-07a-main|Catch up with 06 changes|[07a-main](https://github.com/quapaw/hapi-tut-monolith-07a-main)|
+|hapi-tut-monolith-07b-main|Change in configuration|[07b-main](https://github.com/quapaw/hapi-tut-monolith-07b-main)|
 
 
 
